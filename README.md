@@ -1,8 +1,8 @@
 # Ryan Hebert
 
-I work on identity and access for AI agents. I've spent six years in Duo and Cisco identity
-security on the customer side. Before that I ran my own IT services firm for eight years, managed
-products at Barracuda, and owned the AI experience at Clinc.
+I've spent six years in Duo and Cisco identity security on the customer side. Before that I ran
+my own IT services firm for eight years, managed products at Barracuda, and owned the AI
+experience at Clinc.
 
 Since early 2026 I've designed and run AI agent systems on my own hardware. Agents operate my
 firewalls, backups, cloud accounts and a software pipeline, with protected paths, approvals for
